@@ -1,2 +1,2 @@
 # BCRL_unsup_clust
-Unsupervised clsutering of BCRL patients
+Unsupervised clustering of BCRL patients
