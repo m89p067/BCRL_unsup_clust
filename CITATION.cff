@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Nascimben"
+  given-names: "Mauro"
+  orcid: "https://orcid.org/0000-0001-7123-5577"
+title: "Unsupervised clustering code for BCRL patient stratification"
+version: 0.1
+doi: 10.3390/cancers15020336
+date-released: 2023-01-04
+url: "https://github.com/m89p067/BCRL_unsup_clust"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Nascimben"
+    given-names: "Mauro"
+    orcid: "https://orcid.org/0000-0001-7123-5577"
+  - family-names: "Lippi"
+    given-names: "Lorenzo"
+    orcid: "https://orcid.org/0000-0001-9035-1485"
+  - family-names: "de Sire"
+    given-names: "Alessandro"
+    orcid: "https://orcid.org/0000-0002-5541-8346"
+  - family-names: "Invernizzi"
+    given-names: "Marco"
+    orcid: "https://orcid.org/0000-0001-5141-0681"
+  - family-names: "Rimondini"
+    given-names: "Lia"
+    orcid: "https://orcid.org/0000-0002-7785-2282"
+  doi: "https://doi.org/10.3390/cancers15020336"
+  journal: "Cancers"
+  month: 1
+  start: 336 # First page number
+  end: 336 # Last page number
+  title: "Algorithm-Based Risk Identification in Patients with Breast Cancer-Related Lymphedema: A Cross-Sectional Study"
+  issue: 2
+  volume: 15
+  year: 2023
